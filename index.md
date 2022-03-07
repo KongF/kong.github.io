@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+## Welcome
 
 
 * Enjoy programming and build awesome stuff.

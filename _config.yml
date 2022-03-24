@@ -1,11 +1,11 @@
 # Basic
-title: Kong
-subtitle: µ±»úÁ¢¶Ï£¬·ÇºÚ¼´°×£¬²»Òªºó»Ú
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">ÏÂÔØÕâ¸ö²©¿ÍÖ÷Ìâ</a>
-description: ÎªËùÓûÎªËùÓûÎª
-creator: <a href="https://kongf.github.io">@kong fanqin</a>
+title: Yan_wd
+subtitle: ä¸€æ¡èˆ”ç‹—çš„ä¸çŸ¥ååšå®¢
+welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">ä¸‹è½½è¿™ä¸ªåšå®¢ä¸»é¢˜</a>
+description: ä¸ºæ‰€æ¬²ä¸ºæ‰€æ¬²ä¸º
+creator: <a href="https://yanwd628.github.io">@YAN_weidan</a>
 
-url: "https://github.com/KongF/kongf.github.io"
+url: "https://github.com/yanwd628/yanwd628.github.com"
 
 permalink: /:year/:month/:title/
 
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'https://github.com/KongF'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/yanwd628'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -38,13 +38,12 @@ comment:
 # Social
 social:
     #weibo: onevcat
-    github: KongF
+    github: yanwd628
     #twitter: onevcat
     #gplus: 107108267983477358170
-    mail: kong_fq@163.com
+    mail: onev@onevcat.com
 
 # Google Analytics
 ga:
     # id: your_ga_id
     # host: your_host
-theme: jekyll-theme-cayman

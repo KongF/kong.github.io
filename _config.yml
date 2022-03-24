@@ -1,8 +1,8 @@
 # Basic
 title: Kong
-subtitle: 褰撴満绔嬫柇锛岄潪榛戝嵆鐧斤紝涓嶈鍚庢倲
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">涓嬭浇杩欎釜鍗氬涓婚</a>
-description: 涓烘墍娆蹭负鎵�娆蹭负
+subtitle: 当机立断，非黑即白，不要后悔
+welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">下载这个博客主题</a>
+description: 为所欲为所欲为
 creator: <a href="https://kongf.github.io">@kong fanqin</a>
 
 url: "https://github.com/KongF/kongf.github.io"
@@ -47,3 +47,4 @@ social:
 ga:
     # id: your_ga_id
     # host: your_host
+theme: jekyll-theme-cayman
